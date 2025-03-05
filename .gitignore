@@ -1,0 +1,6 @@
+*.log
+*.bak
+*.swp
+*.tmp
+audit-report.md
+.DS_Store
